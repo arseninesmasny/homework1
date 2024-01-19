@@ -1,0 +1,15 @@
+img{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: aquamarine;
+}
+a{
+    color: black;
+    font-size: 40px;
+}
+.link{
+    margin:15px;
+}
